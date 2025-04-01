@@ -1,4 +1,6 @@
 Cybersecurity Incident Response Simulator
+
+
 📌 Project Overview
 
 The Cybersecurity Incident Response Simulator is designed to help organizations detect, analyze, and respond to cyber threats in real time. It integrates AWS CloudWatch, Grafana, and a custom web application to monitor logs, identify suspicious activities, and take necessary security actions.
